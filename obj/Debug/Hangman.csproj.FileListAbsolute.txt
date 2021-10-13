@@ -1,0 +1,7 @@
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\EFA\GoldBadge\Hangman\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
